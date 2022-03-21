@@ -1,0 +1,20 @@
+Uri: https://mc.yandex.ru/watch/50021764
+File Name: C:\Users\matth\Desktop\test\yoksel.github.io\watch\50021764
+Content Type: image/gif
+
+Uri: https://yoksel.github.io/svg-filters/
+File Name: C:\Users\matth\Desktop\test\yoksel.github.io\svg-filters\index.htm
+Content Type: text/html
+
+Uri: https://yoksel.github.io/svg-filters/manifest.json
+File Name: C:\Users\matth\Desktop\test\yoksel.github.io\svg-filters\manifest.json
+Content Type: application/json
+
+Uri: https://yoksel.github.io/svg-filters/static/css/main.4ae9df74.css
+File Name: C:\Users\matth\Desktop\test\yoksel.github.io\svg-filters\static\css\main.4ae9df74.css
+Content Type: text/css
+
+Uri: https://yoksel.github.io/svg-filters/static/js/main.0e076285.js
+File Name: C:\Users\matth\Desktop\test\yoksel.github.io\svg-filters\static\js\main.0e076285.js
+Content Type: application/javascript
+
